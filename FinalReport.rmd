@@ -101,7 +101,7 @@ fisher.test(table1)
 The Chi Squared table shows that the p-value of 0.0006181 is so small that it is highly unlikely that the results are by chance.  
 $H_O$ the null hypothesis given taking the vaccine there is no difference of whether or not a male can contracts Covid.  
 $H_A$ the alternative hypothesis is that the vaccine does make a difference in whether or not a male can contract Covid. Therefor we reject the Null hypothesis.   
-The odds ratio in the fisher exact test is 1.47:1, when taking the odds ratio and computing it into a percent of effectiveness by using the formula 0/(1+0)*100 you get 59.5% effectiveness. 
+The odds ratio in the fisher exact test is 1.47:1, when taking the odds ratio and computing it into a percent of effectiveness by using the formula 0/(1+0)*100 you get 40% effectiveness. 
 
 # Females
 
@@ -236,3 +236,7 @@ The Chi Squared table shows that the p-value of 1.05e-05.
 The odds ratio in the fisher exact test is 0.4:1, when taking the odds ratio and computing it into a percent of effectiveness by using the formula 0/(1+0)*100 you get about 29% effectiveness. 
 
 # Discussion and Conclusion  
+
+We look at four different population to see the effectiveness a the Covid-19 vaccine. We found that it was effective for some populations and not effective for other.  
+For males the effectiveness was about 40%. For females the effectiveness was about 67%. For drug users the effectiveness was about 60%. And for LGBTQ people the effectiveness was about 29%.    
+We can see that for females and drug users the drug is effective but for males and LGBTQ people it is not effective al all. 
